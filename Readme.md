@@ -1,10 +1,4 @@
-# Hi there! 👋 I'm Rasika Phutane
-
-Welcome to my GitHub profile! I'm a passionate software engineer and web developer working on dynamic websites. I love exploring new technologies and working on challenging projects.
-
-- 🌱 Currently working on: **Dynamic website using AWS Lambda**
-- 🛠 Skilled in: **Python**, **JavaScript**, **HTML**, **CSS**, **OpenCV**, **Image Processing**
-- ⚡ Fun fact: I love blending creativity and tech in projects!
+# Hello, I'm Rasika Phutane
 
 ## 🛠 Tech Stack
 
@@ -17,13 +11,29 @@ Welcome to my GitHub profile! I'm a passionate software engineer and web develop
 
 ## 📊 GitHub Stats
 
-![Rasika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 Contribution Graph
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rasika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rasikaphutane&theme=dracula)
+
+## 📊 Contributions
+
+[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=rasikaphutane&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true)](https://github.com/rasikaphutane)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+
+## 📈 Repository Overview
+
+### [Hospital Management System](https://github.com/rasikaphutane/hospital-management)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=hospital-management&theme=radical)
+
+### [Computer Vision Game](https://github.com/rasikaphutane/Vision_game)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=Vision_game&theme=radical)
+
+
 
 ## 📫 Contact Me
 
