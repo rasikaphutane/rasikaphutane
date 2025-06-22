@@ -91,7 +91,7 @@ class RasikaPhutane:
 [**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Code Visualization"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat"/>
 </div>
 
 ---
@@ -138,10 +138,6 @@ Learning industry standards, clean code principles, and system design
 
 *Fun fact: I have trust issues with code that works on the first try 😅*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Clean Code Animation"/>
-</div>
-
 ---
 
 ## 🤝 Connect with Me
@@ -159,7 +155,7 @@ Learning industry standards, clean code principles, and system design
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Clean Code Animation"/>
   
   **"Learning one commit at a time"** 🚀
   
