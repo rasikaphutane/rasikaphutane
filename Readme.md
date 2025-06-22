@@ -1,152 +1,220 @@
-# 🚀 Welcome to Rasika's Space Station
-
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=👨‍🚀+Computer+Science+Explorer;🛸+Navigating+the+AI+Galaxy;🌟+Building+Digital+Constellations)
+# ✦ Rasika Phutane ✦
 
-  ```
-  ╔══════════════════════════════════════╗
-  ║  🛰️  TRANSMISSION FROM ORBIT        ║
-  ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-  ║  Astronaut: Rasika Phutane           ║
-  ║  Station: VIT Chennai Base           ║  
-  ║  Mission: Code & Create              ║
-  ║  Status: Online & Ready to Launch 🚀 ║
-  ╚══════════════════════════════════════╝
-  ```
+```
+     ╭─────────────────────────────────────╮
+     │  🌌 Digital Architect & Code Explorer │
+     ╰─────────────────────────────────────╯
+```
+
+![Space Typing](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=2500&pause=1000&color=8B9DC3&center=true&vCenter=true&width=500&lines=CS+Student+%40+VIT+Chennai;Building+Digital+Universes;Exploring+AI+Frontiers)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" opacity="0.8">
 
 </div>
 
 ---
 
-## 🛸 Mission Control Dashboard
+<div align="center">
 
-```javascript
-const spaceStation = {
-    commander: "Rasika Phutane 👨‍🚀",
-    coordinates: "Earth 🌍 → VIT Chennai Sector",
-    currentMission: "Exploring the vast CS universe",
-    equipment: ["Python laser", "JavaScript thrusters", "SQL navigator"],
-    vehicles: ["FastAPI rocket", "Flask shuttle", "React satellite"],
-    missionLog: "Discovering new coding galaxies daily",
-    nextWarpJump: "Software Engineering Career ✨",
+## ⚡ Tech Stack Universe
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛸 Featured Expeditions
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 GitHub Productivity Tracker
+*Chrome Extension*
+
+```
+┌─ Project Details ─────────────────┐
+│ Type: Browser Extension           │
+│ Tech: FastAPI + Chrome APIs       │
+│ Feature: AI Sentiment Analysis    │
+│ Purpose: Developer Insights       │
+└───────────────────────────────────┘
+```
+
+<details>
+<summary>🌟 <strong>Mission Overview</strong></summary>
+<br>
+A sophisticated Chrome extension that transforms GitHub activity tracking into actionable insights. Features intelligent pattern recognition, productivity scoring, and AI-powered sentiment analysis of commits and interactions.
+
+**Key Features:**
+- Real-time activity monitoring
+- Productivity metrics dashboard  
+- AI sentiment analysis engine
+- Custom notification system
+</details>
+
+<a href="https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension">
+<img src="https://img.shields.io/badge/🚀_Explore_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🤖 Business Query Bot
+*AI-Powered Assistant*
+
+```
+┌─ Project Details ─────────────────┐
+│ Type: AI Chat Interface           │
+│ Tech: NLP + Machine Learning      │
+│ Feature: Business Intelligence    │
+│ Purpose: Query Resolution         │
+└───────────────────────────────────┘
+```
+
+<details>
+<summary>🌟 <strong>Mission Overview</strong></summary>
+<br>
+An intelligent conversational AI system designed to handle business queries with contextual understanding. Leverages natural language processing to provide accurate, relevant responses for enterprise environments.
+
+**Key Features:**
+- Natural language understanding
+- Context-aware responses
+- Business domain expertise
+- Scalable architecture
+</details>
+
+<a href="https://github.com/rasikaphutane/business-query-bot">
+<img src="https://img.shields.io/badge/🚀_Explore_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Mission Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7BB3F0&icon_color=7BB3F0&text_color=8B949E&custom_title=Code%20Statistics"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7BB3F0&text_color=8B949E&custom_title=Language%20Distribution"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 Current Exploration
+
+```mermaid
+graph TD
+    A[🎓 Learning Journey] --> B[🤖 Machine Learning]
+    A --> C[☁️ Cloud Architecture]
+    A --> D[🏗️ System Design]
+    B --> E[🔬 Research Projects]
+    C --> F[📡 Deployment Skills]
+    D --> G[💼 Industry Applications]
     
-    transmitMessage() {
-        return "🌌 Ready for intergalactic collaboration!";
-    }
-};
-
-console.log(spaceStation.transmitMessage());
-```
-
----
-
-## 🛰️ Navigation Systems (Tech Stack)
-
-<div align="center">
-
-### 🔧 Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🚀 Development Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🤖 Exploring
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Galactic Projects & Expeditions
-
-<div align="center">
-
-### 🔍 GitHub Productivity Tracker
-*🛰️ Chrome Extension Mission*
-
-**Mission Log:** Launched a Chrome extension spacecraft that helps fellow space explorers track their GitHub journeys and analyze productivity patterns using AI-powered cosmic insights.
-
-**Spacecraft Tech:** `FastAPI` `Chrome APIs` `Python` `Data Analysis`
-
-[![Launch Pad](https://img.shields.io/badge/🚀_Launch_Pad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
-
----
-
-### 🏥 Hospital Management System  
-*🌌 Full-Stack Galaxy Command Center*
-
-**Mission Log:** Constructed a comprehensive digital space station for healthcare management, complete with astronaut authentication, patient records database, and administrative control systems.
-
-**Station Modules:** `Flask` `MySQL` `HTML/CSS` `Authentication Systems`
-
-[![Command Center](https://img.shields.io/badge/🛸_Command_Center-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane/hospital-management)
-
-</div>
-
----
-
-## 📊 Space Station Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=64FFDA&title_color=64FFDA&text_color=c9d1d9"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=64FFDA&text_color=c9d1d9"/>
-
-</div>
-
----
-
-## 🎯 Current Trajectory
-
-<div align="center">
-
-```
-🌱 Currently Learning
-├── 🤖 Machine Learning fundamentals
-├── ☁️  Cloud technologies  
-├── 🏗️  System design principles
-└── 📊 Data structures & algorithms
-
-🔭 Seeking Opportunities
-├── 💼 Software development internships
-├── 🤝 Open source contributions
-└── 📚 Collaborative learning projects
+    style A fill:#1f2937,stroke:#7BB3F0,stroke-width:2px,color:#ffffff
+    style B fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
+    style C fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
+    style D fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
 ```
 
 </div>
 
 ---
 
-## 🌌 Deep Space Communication
-
 <div align="center">
 
-**Ready to collaborate on exciting projects?**
+## 🛰️ Transmission Channels
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/rasikaphutane">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:rasikaphutane18@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/rasikaphutane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+```
+     ╭─────────────────────────────────────╮
+     │   ✦ Ready for Collaborative Missions ✦   │
+     ╰─────────────────────────────────────╯
+```
 
-*"Every line of code is a step toward building something meaningful"* ✨
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=64FFDA)
+![Visitors](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=7BB3F0&label=Space+Visitors)
 
 </div>
