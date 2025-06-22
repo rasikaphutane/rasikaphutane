@@ -3,8 +3,11 @@
 # 🚀 Rasika Phutane 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%40+VIT+Chennai+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Cool+Stuff+%F0%9F%9A%80" />
+
 </div>
-<div>
+
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
