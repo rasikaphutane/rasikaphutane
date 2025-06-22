@@ -152,14 +152,14 @@ Learning industry standards, clean code principles, and system design
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
 <br/>
-*Feel free to reach out - I respond faster than my code compiles 📬*
+*"Feel free to reach out - I respond faster than Stack Overflow loads 📬"*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Matrix Coding"/>
   
   **"Learning one commit at a time"** 🚀
   
