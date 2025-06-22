@@ -1,7 +1,7 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Software+Developer+in+Making;AI%2FML+Enthusiast;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;AI%2FML+Enthusiast+%E2%9C%A8;Learning+Software+Development;Data+Science+Explorer+%F0%9F%93%8A;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@ class RasikaPhutane:
         self.role = "Computer Science Student"
         self.location = "Chennai, India"
         self.education = "VIT Chennai"
-        self.interests = ["Software Development", "AI/ML", "Problem Solving"]
+        self.interests = ["Software Development", "AI/ML", "Data Science", "Problem Solving"]
         self.motto = "Learning something new every day"
         
     def currently_working_on(self):
@@ -55,12 +55,9 @@ class RasikaPhutane:
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=git,vscode,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Coding Tools"/>
 </div>
 
 ---
@@ -133,12 +130,11 @@ Learning industry standards, clean code principles, and system design
 ## 🎯 What Drives Me
 
 - 💻 Building solutions that make a difference
-- 📈 Continuous learning and skill development
+- 📈 Continuous learning and skill development  
 - 🔍 Problem-solving through creative approaches
 - 🤝 Contributing to open source communities
-- ✨ Turning ideas into functional applications
 
-*PS: Still trying to figure out why my code works perfectly at 2 AM but breaks during demos* 🤷‍♀️
+*Fun fact: I have a special talent for writing code that works perfectly... until someone else tries to run it* 😅
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="200" alt="Motivation"/>
@@ -163,6 +159,8 @@ Learning industry standards, clean code principles, and system design
   
   **"Learning one commit at a time"** 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=00d9ff&label=Profile+Views)
+  *"My code doesn't always work, but when it does, I have no idea why"* 💻
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=ff69b4&label=Profile+Views)
   
 </div>
