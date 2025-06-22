@@ -1,59 +1,84 @@
-# 👩‍💻 Rasika Phutane
+# Hi there, I'm Rasika Phutane 👋
 
-🚀 Passionate Computer Science undergrad | 👩‍🔬 Research Intern at Samsung PRISM  
-🌱 Currently building AI-powered tools for productivity, developer experience & automation  
-📍 India | 🎓 VIT Chennai | 💬 Ask me about ML, NLP, FastAPI, Chrome Extensions
+> **Software Engineer** | **Problem Solver** | **AI/ML Enthusiast**
+
+## 🚀 About Me
+
+I'm a passionate software engineer with expertise in full-stack development and computer vision. I love building scalable solutions and exploring cutting-edge technologies that solve real-world problems.
+
+```python
+class RasikaPhutane:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.languages = ["Python", "JavaScript", "HTML/CSS"]
+        self.specialties = ["AI/ML", "Web Development", "NLP"]
+        self.currently_learning = ["Machine Learning", "Cloud Architecture"]
+        self.open_to = ["Full-time opportunities", "Interesting projects", "Tech collaborations"]
+    
+    def get_current_focus(self):
+        return "Building innovative solutions with Python and OpenCV"
+```
+
+## 💻 Tech Arsenal
+
+**Languages & Frameworks**
+```
+Python    ████████████████████ 90%
+JavaScript ███████████████████ 85%
+HTML/CSS   ██████████████████ 80%
+```
+
+**Technologies & Tools**
+- 🐍 **Backend**: Python, Node.js
+- 🎨 **Frontend**: JavaScript, HTML5, CSS3
+- 👁️ **Computer Vision**: OpenCV, Image Processing
+- 🔧 **Tools**: Git, VS Code, Linux
+- ☁️ **Learning**: AWS, Docker, Kubernetes
+
+## 🎯 Featured Projects
+
+### 🏥 [Hospital Management System](https://github.com/rasikaphutane/hospital-management)
+**A comprehensive healthcare management solution**
+- Built with modern web technologies
+- Features patient management, appointment scheduling, and medical records
+- Focused on user experience and data security
+
+### 🎮 [Computer Vision Game](https://github.com/rasikaphutane/Vision_game)
+**Interactive game powered by computer vision**
+- Real-time gesture recognition using OpenCV
+- Demonstrates practical application of AI in gaming
+- Optimized for performance and accuracy
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌟 What I'm Up To
+
+- 🔭 Currently working on advanced computer vision projects
+- 📚 Learning cloud architecture and distributed systems
+- 🤝 Open to collaborating on innovative tech projects
+- 💬 Ask me about Python, OpenCV, or web development
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
 
 ---
 
-## 💼 Tech Stack
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rasikaphutane&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 🧠 Featured Projects
-
-### [🚀 GitHub Productivity Tracker (Chrome Extension)](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
-> An AI-powered Chrome Extension that tracks commit patterns, moods from commit messages using Mistral, and provides personalized DevPulse scores and alerts. Built with FastAPI, Tailwind CSS, and Chrome Storage.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=github_productivity_tracking_chrome_extension&theme=radical)
-
-### [🏥 Hospital Management System](https://github.com/rasikaphutane/hospital-management)
-> A full-stack system with authentication, patient records, and doctor dashboards. Powered by Flask, MySQL, and Bootstrap.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=hospital-management&theme=radical)
-
----
-
-## 📈 GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rasikaphutane&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## ✨ Highlights
-
-- 🌟 Contributor to Samsung PRISM Research Program (AI + NLP)
-- 💡 Built multiple NLP & Computer Vision tools for research and practical deployment
-- 🧩 Automating productivity and developer workflows using AI
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
-
----
-
-_“Code with purpose. Build with impact.”_
+<div align="center">
+  <i>⭐ From [rasikaphutane](https://github.com/rasikaphutane) - Let's build something amazing together!</i>
+</div>
