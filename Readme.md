@@ -139,7 +139,7 @@ Learning industry standards, clean code principles, and system design
 *Fun fact: I have trust issues with code that works on the first try 😅*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="300" alt="Coffee Coding"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Code Visualization"/>
 </div>
 
 ---
