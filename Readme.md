@@ -159,7 +159,7 @@ Learning industry standards, clean code principles, and system design
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" alt="Terminal"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300" alt="Developer"/>
   
   **"Learning one commit at a time"** 🚀
   
