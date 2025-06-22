@@ -1,11 +1,11 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;She+codes%2C+she+conquers%2C+she+creates;Training+models+and+breaking+barriers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;Debugging+code+and+life+simultaneously;Currently+obsessed+with+neural+networks" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="AI Woman Coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Neural Network Animation"/>
 </div>
 
 ---
@@ -19,8 +19,8 @@ class AspiringAIEngineer:
         self.role = "CS Student"
         self.location = "Chennai, India"
         self.goal = "Becoming an AI/ML Engineer"
-        self.motto = "Coding with coffee, learning with curiosity"
-        self.vibe = "Turning algorithms into art 💫"
+        self.motto = "Turning caffeine into code and confusion into clarity"
+        self.current_status = "Teaching machines to think (they're slow learners)"
         
     def current_focus(self):
         return [
@@ -34,6 +34,7 @@ class AspiringAIEngineer:
 ---
 
 ## 🛠️ Tech Arsenal
+*My weapons of choice for conquering datasets*
 
 <div align="center">
 
@@ -47,16 +48,17 @@ class AspiringAIEngineer:
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,docker,aws,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,docker,aws,linux&theme=dark" />
 
 </div>
 
 ---
 
 ## 🌌 Featured Projects
+*Quality over quantity - still working on the quantity part*
 
 ### 🤖 GitHub Productivity Tracker
-*Tracking commits like a neural network tracks gradients*
+*Because even my commits need therapy*
 
 **Tech Stack:** Python, FastAPI, Chrome APIs, NLP
 - Real-time GitHub activity monitoring
@@ -69,7 +71,7 @@ class AspiringAIEngineer:
 ---
 
 ### 💬 Business Query Bot
-*Teaching machines the art of conversation*
+*Making AI customer service slightly less frustrating*
 
 **Tech Stack:** Python, NLP, Machine Learning
 - Contextual conversation understanding
@@ -82,6 +84,7 @@ class AspiringAIEngineer:
 ---
 
 ## 📊 GitHub Analytics
+*The numbers don't lie, but they don't tell the whole story either*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff&ring_color=ff6b9d"/>
@@ -99,39 +102,41 @@ class AspiringAIEngineer:
 *Currently on a quest to master the art and science of AI*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="Learning Journey"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Data Science Animation"/>
 </div>
 
 **🧠 Machine Learning Fundamentals**  
-*Building intelligence, one algorithm at a time*
+*Teaching computers to learn faster than I do*
 
 **🔬 Deep Learning with Neural Networks**  
-*Going deeper than just surface-level understanding*
+*Going deeper than my late-night existential thoughts*
 
 **📈 Data Science & Analytics**  
-*Turning data into insights, insights into action*
+*Finding patterns in chaos, just like my life*
 
 **☁️ MLOps & Cloud Deployment**  
-*From Jupyter notebooks to production-ready solutions*
+*Making models work in the real world (harder than it sounds)*
 
 **🤖 AI Ethics & Responsible AI**  
-*Because with great power comes great responsibility*
+*With great computing power comes great electricity bills*
 
 ---
 
 
 
 ## 🌸 Fun Facts About Me
+*Random variables from my probability distribution*
 
-- 💻 I believe women in tech are changing the world, one line of code at a time
-- 🎨 I see patterns in data like others see art in paintings
-- 📊 My ideal weekend: binge-watching ML tutorials with a cup of chai ☕
-- 🌟 I'm fascinated by how neural networks mimic the human brain
-- 🚀 Dream goal: Contributing to AI research that makes a difference
+- 💻 I debug code like I'm solving murder mysteries
+- 🎨 My data visualizations are prettier than my handwriting
+- 📊 I can spend hours cleaning data and call it "fun"
+- 🌟 I talk to my models like they're my pets (they don't listen either)
+- 🚀 My browser has more ML research papers than social media tabs
 
 ---
 
 ## 🤝 Let's Connect
+*My DMs are more responsive than my models*
 
 <div align="center">
 
@@ -144,9 +149,9 @@ class AspiringAIEngineer:
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Sparkle Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" alt="Matrix Code Rain"/>
   
-  **"She believed she could code the future, so she did." ✨**
+  **"Still loading... please wait while I compile my life choices." 💫**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=ff6b9d&label=Visitors)
 </div>
