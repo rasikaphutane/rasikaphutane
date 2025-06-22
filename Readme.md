@@ -139,7 +139,7 @@ Learning industry standards, clean code principles, and system design
 *Fun fact: I have trust issues with code that works on the first try 😅*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Glitch Code"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Pixel Developer"/>
 </div>
 
 ---
