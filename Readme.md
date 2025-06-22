@@ -1,7 +1,7 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;Debugging+code+and+life+simultaneously;Currently+obsessed+with+neural+networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Software+Developer+in+Progress;Still+figuring+out+if+arrays+start+at+0+or+1;AI%2FML+enthusiast+with+debugging+skills" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,21 +13,21 @@
 ## 🚀 About Me
 
 ```python
-class AspiringAIEngineer:
+class AspiringDeveloper:
     def __init__(self):
         self.name = "Rasika Phutane"
         self.role = "CS Student"
         self.location = "Chennai, India"
-        self.goal = "Becoming an AI/ML Engineer"
+        self.goals = ["Software Development", "AI/ML Engineering", "World Domination"]
         self.motto = "Turning caffeine into code and confusion into clarity"
-        self.current_status = "Teaching machines to think (they're slow learners)"
+        self.current_status = "Learning to code like my life depends on it (it does)"
         
     def current_focus(self):
         return [
-            "Machine Learning Fundamentals",
-            "Deep Learning with TensorFlow",
-            "Data Science & Analytics",
-            "Neural Network Architectures"
+            "Software Development Fundamentals",
+            "Data Structures & Algorithms",
+            "Machine Learning & AI",
+            "Building things that actually work"
         ]
 ```
 
@@ -102,23 +102,23 @@ class AspiringAIEngineer:
 *Currently on a quest to master the art and science of AI*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="Data Science Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" alt="Coding Animation"/>
 </div>
 
-**🧠 Machine Learning Fundamentals**  
+**🧠 Software Development Fundamentals**  
+*Learning to write code that doesn't make senior devs cry*
+
+**🔍 Data Structures & Algorithms**  
+*Currently in a complicated relationship with Big O notation*
+
+**🤖 Machine Learning & AI**  
 *Teaching computers to learn faster than I do*
 
-**🔬 Deep Learning with Neural Networks**  
-*Going deeper than my late-night existential thoughts*
+**☁️ Full Stack Development**  
+*Frontend, backend, and the mysterious stuff in between*
 
-**📈 Data Science & Analytics**  
-*Finding patterns in chaos, just like my life*
-
-**☁️ MLOps & Cloud Deployment**  
-*Making models work in the real world (harder than it sounds)*
-
-**🤖 AI Ethics & Responsible AI**  
-*With great computing power comes great electricity bills*
+**🛠️ Problem Solving & DSA**  
+*My code passes sample test cases... production is another story*
 
 ---
 
@@ -128,10 +128,11 @@ class AspiringAIEngineer:
 *Random variables from my probability distribution*
 
 - 💻 I debug code like I'm solving murder mysteries
-- 🎨 My data visualizations are prettier than my handwriting
-- 📊 I can spend hours cleaning data and call it "fun"
-- 🌟 I talk to my models like they're my pets (they don't listen either)
-- 🚀 My browser has more ML research papers than social media tabs
+- 🎯 My relationship status with recursion: "It's complicated"
+- 📊 I can spend hours on LeetCode and still feel like a beginner
+- 🌟 My code works perfectly... until someone else runs it
+- 🚀 I collect programming languages like some people collect stamps
+- 🧩 Still waiting for that "aha!" moment with dynamic programming
 
 ---
 
@@ -149,7 +150,7 @@ class AspiringAIEngineer:
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" alt="Matrix Code Rain"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Simple Coding"/>
   
   **"Still loading... please wait while I compile my life choices." 💫**
   
