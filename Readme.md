@@ -1,41 +1,59 @@
-# Hello, I'm Rasika Phutane
+# 👩‍💻 Rasika Phutane
 
-## 🛠 Tech Stack
+🚀 Passionate Computer Science undergrad | 👩‍🔬 Research Intern at Samsung PRISM  
+🌱 Currently building AI-powered tools for productivity, developer experience & automation  
+📍 India | 🎓 VIT Chennai | 💬 Ask me about ML, NLP, FastAPI, Chrome Extensions
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## 💼 Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+## 🧠 Featured Projects
 
+### [🚀 GitHub Productivity Tracker (Chrome Extension)](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
+> An AI-powered Chrome Extension that tracks commit patterns, moods from commit messages using Mistral, and provides personalized DevPulse scores and alerts. Built with FastAPI, Tailwind CSS, and Chrome Storage.
 
-## 📊 Contributions
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=github_productivity_tracking_chrome_extension&theme=radical)
 
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=rasikaphutane&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true)](https://github.com/rasikaphutane)
+### [🏥 Hospital Management System](https://github.com/rasikaphutane/hospital-management)
+> A full-stack system with authentication, patient records, and doctor dashboards. Powered by Flask, MySQL, and Bootstrap.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-
-## 📈 Repository Overview
-
-### [Hospital Management System](https://github.com/rasikaphutane/hospital-management)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=hospital-management&theme=radical)
 
-### [Computer Vision Game](https://github.com/rasikaphutane/Vision_game)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikaphutane&repo=Vision_game&theme=radical)
+---
 
+## 📈 GitHub Activity
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rasikaphutane&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📫 Contact Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rasikaphutane18.com)
+## ✨ Highlights
+
+- 🌟 Contributor to Samsung PRISM Research Program (AI + NLP)
+- 💡 Built multiple NLP & Computer Vision tools for research and practical deployment
+- 🧩 Automating productivity and developer workflows using AI
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
+
+---
+
+_“Code with purpose. Build with impact.”_
