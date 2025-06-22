@@ -139,7 +139,7 @@ Learning industry standards, clean code principles, and system design
 *Fun fact: I have trust issues with code that works on the first try 😅*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="200" alt="Motivation"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Glitch Code"/>
 </div>
 
 ---
