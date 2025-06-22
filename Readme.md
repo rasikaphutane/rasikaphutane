@@ -1,11 +1,11 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;Exploring+the+Universe+of+Data;Training+models%2C+not+just+debugging+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;She+codes%2C+she+conquers%2C+she+creates;Training+models+and+breaking+barriers" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="AI Brain Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="AI Woman Coding"/>
 </div>
 
 ---
@@ -19,7 +19,8 @@ class AspiringAIEngineer:
         self.role = "CS Student"
         self.location = "Chennai, India"
         self.goal = "Becoming an AI/ML Engineer"
-        self.motto = "Training models and debugging dreams"
+        self.motto = "Coding with coffee, learning with curiosity"
+        self.vibe = "Turning algorithms into art 💫"
         
     def current_focus(self):
         return [
@@ -40,7 +41,10 @@ class AspiringAIEngineer:
 <img src="https://skillicons.dev/icons?i=python,js,react,mysql,git&theme=dark" />
 
 ### **AI/ML Stack**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=vscode,jupyter,docker,aws,linux&theme=dark" />
@@ -80,20 +84,22 @@ class AspiringAIEngineer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff&ring_color=ff6b9d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d"/>
 </div>
 
 ---
 
-## 🎯 Current Learning Journey
+## 🌱 Learning Journey
+
+*Currently on a quest to master the art and science of AI*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Learning Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="Learning Journey"/>
 </div>
 
 **🧠 Machine Learning Fundamentals**  
@@ -108,17 +114,20 @@ class AspiringAIEngineer:
 **☁️ MLOps & Cloud Deployment**  
 *From Jupyter notebooks to production-ready solutions*
 
+**🤖 AI Ethics & Responsible AI**  
+*Because with great power comes great responsibility*
+
 ---
 
 
 
-## 🌟 Fun Facts About Me
+## 🌸 Fun Facts About Me
 
-- 🌍 I believe AI will help us explore space better
-- 🤖 I debug code like I'm negotiating with robots
-- 📚 I read research papers like they're sci-fi novels
-- ☕ Coffee is my fuel for late-night model training
-- 🎮 I think neural networks are just very complex games
+- 💻 I believe women in tech are changing the world, one line of code at a time
+- 🎨 I see patterns in data like others see art in paintings
+- 📊 My ideal weekend: binge-watching ML tutorials with a cup of chai ☕
+- 🌟 I'm fascinated by how neural networks mimic the human brain
+- 🚀 Dream goal: Contributing to AI research that makes a difference
 
 ---
 
@@ -135,9 +144,9 @@ class AspiringAIEngineer:
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Space Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Sparkle Animation"/>
   
-  **"Exploring the universe of possibilities, one dataset at a time."**
+  **"She believed she could code the future, so she did." ✨**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=00d9ff&label=Visitors)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=ff6b9d&label=Visitors)
 </div>
