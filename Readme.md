@@ -1,87 +1,78 @@
-# Hi there, I'm Rasika Phutane 👋
+# Hi, I'm Rasika Phutane
 
-> **Software Engineer** | **AI/ML Engineer** | **Data Science Enthusiast**
+**Computer Science Student** | **Problem Solver** | **Technology Enthusiast**
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate Computer Science undergrad at VIT Chennai and Research Intern at Samsung PRISM. I specialize in building intelligent software solutions using AI/ML, NLP, and modern web technologies that drive real business impact.
+I'm a Computer Science undergraduate at VIT Chennai who enjoys building solutions that make a difference. I'm particularly drawn to AI and machine learning, and I love exploring how these technologies can solve real-world problems through creative applications.
 
 ```python
 class RasikaPhutane:
     def __init__(self):
-        self.role = "Software Engineer & Research Intern @ Samsung PRISM"
-        self.education = "Computer Science @ VIT Chennai"
+        self.status = "CS Student @ VIT Chennai"
+        self.passion = "Creating innovative solutions with technology"
+        self.interests = ["AI/ML", "Software Development", "Data Science", "Problem Solving"]
         self.languages = ["Python", "JavaScript", "SQL"]
-        self.specialties = ["AI/ML", "NLP", "Full-Stack Development", "Data Science"]
-        self.frameworks = ["FastAPI", "React", "TensorFlow", "Scikit-learn"]
-        self.currently_learning = ["Deep Learning", "MLOps", "System Design"]
-        self.open_to = ["SDE Roles", "ML Engineer Positions", "Research Collaborations"]
+        self.learning = ["Machine Learning", "System Design", "Cloud Technologies"]
+        self.approach = "Learn by building, grow by doing"
     
-    def get_current_focus(self):
-        return "Building AI-powered productivity tools and NLP applications"
+    def current_focus(self):
+        return "Developing skills through hands-on projects and exploration"
 ```
 
-## 💻 Tech Arsenal
+## Technical Skills
 
-**Languages & Frameworks**
-```
-Python      ████████████████████ 90%
-JavaScript  ███████████████████ 85%
-SQL         ██████████████████ 80%
-```
+**Programming & Development**
+- **Languages**: Python, JavaScript, SQL, HTML/CSS
+- **Frameworks**: FastAPI, Flask, React, TensorFlow, Scikit-learn
+- **Data & Analysis**: Pandas, NumPy, MySQL, PostgreSQL
+- **Tools**: Git, Docker, Linux, Jupyter
 
-**Core Technologies**
-- 🤖 **AI/ML**: TensorFlow, Scikit-learn, Pandas, NumPy
-- 🗣️ **NLP**: Transformers, NLTK, spaCy, Mistral AI
-- 🐍 **Backend**: FastAPI, Flask, Node.js, RESTful APIs
-- 🎨 **Frontend**: JavaScript, React, HTML5, CSS3, Tailwind CSS
-- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
-- ☁️ **DevOps**: Docker, Git, Linux, AWS (learning)
+**Areas of Interest**
+- Machine Learning and AI applications
+- Web development and APIs
+- Data analysis and visualization
+- Natural language processing
 
-## 🎯 Featured Projects
+## Projects
 
-### 🚀 [GitHub Productivity Tracker](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
-**AI-powered Chrome Extension for Developer Analytics**
-- Analyzes commit patterns and sentiment using Mistral AI
-- Built with FastAPI, Chrome APIs, and Tailwind CSS
-- Provides personalized DevPulse scores and productivity insights
+### [GitHub Productivity Tracker](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
+Chrome extension for developer productivity insights
+- Combines web development with AI sentiment analysis
+- Built with FastAPI backend and Chrome extension APIs
+- Features intelligent pattern recognition and scoring
 
-### 🏥 [Hospital Management System](https://github.com/rasikaphutane/hospital-management)
-**Full-stack healthcare management platform**
-- Complete CRUD operations with Flask and MySQL
-- Authentication system and role-based access control
-- Modern UI with Bootstrap and responsive design
+### [Hospital Management System](https://github.com/rasikaphutane/hospital-management)
+Comprehensive healthcare management application
+- Full-stack web application with Flask and MySQL
+- Includes user authentication and data management
+- Designed with scalability and user experience in mind
 
-
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
 
-## 🌟 Current Focus
+## Currently
 
-- 🔬 **Research Intern** at Samsung PRISM working on AI/NLP projects
-- 🤖 Building intelligent automation tools for developer productivity
-- 📊 Exploring MLOps and scalable machine learning systems
-- 🎓 Pursuing advanced coursework in Data Science and AI
-- 💼 Open to SDE and ML Engineer opportunities at top tech companies
+- Expanding my knowledge in machine learning and software architecture
+- Building projects that combine different technologies creatively
+- Learning through hands-on development and experimentation
+- Open to collaborations and learning opportunities
+- Exploring internships in software development and AI/ML roles
 
-## 🤝 Let's Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rasikaphutane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rasikaphutane)
+[![Email](https://img.shields.io/badge/Email-rasikaphutane18@gmail.com-red?style=flat&logo=gmail)](mailto:rasikaphutane18@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rasikaphutane&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <i>💡 "Building intelligent solutions that bridge the gap between AI research and real-world impact"</i>
+<em>Learning, building, and creating solutions one project at a time</em>
 </div>
