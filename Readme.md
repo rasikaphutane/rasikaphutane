@@ -159,7 +159,7 @@ Learning industry standards, clean code principles, and system design
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Programming"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat"/>
   
   **"Learning one commit at a time"** 🚀
   
