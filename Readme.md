@@ -91,7 +91,7 @@ class RasikaPhutane:
 [**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200" alt="Project Demo"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Code Visualization"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@ Learning industry standards, clean code principles, and system design
 *Fun fact: I have trust issues with code that works on the first try 😅*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Code Visualization"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Pixel Developer"/>
 </div>
 
 ---
