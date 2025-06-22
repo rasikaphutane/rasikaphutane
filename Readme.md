@@ -159,7 +159,7 @@ Learning industry standards, clean code principles, and system design
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad91d.gif" width="300" alt="Tech Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Holographic Coding"/>
   
   **"Learning one commit at a time"** 🚀
   
