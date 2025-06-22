@@ -47,7 +47,7 @@ class AspiringAIEngineer:
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,docker,aws,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,docker,aws,linux&theme=dark" />
 
 </div>
 
