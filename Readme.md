@@ -1,179 +1,172 @@
 <div align="center">
 
-# 🚀 Rasika Phutane 🚀
-### *Gotta Code 'Em All!* ⚡
+# Rasika Phutane
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFCB05&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%40+VIT+Chennai+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Pok%C3%A9mon+Trainer+%26+Code+Master+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Full+Stack+Developer;AI+%26+ML+Explorer;It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-<img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="100">
 
 </div>
 
 ---
 
+## Tech Stack
+
 <div align="center">
-
-## ⚡ My Tech Stack Pokédex ⚡
-*Level up your coding skills!*
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" align="right">
-
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
 <br><strong>Python</strong>
-<br>⚡ Electric Type
+<br><sub>My debugging companion</sub>
 </td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 <br><strong>JavaScript</strong>
-<br>🔥 Fire Type
+<br><sub>async/await my friend</sub>
 </td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
 <br><strong>React</strong>
-<br>💧 Water Type
+<br><sub>Hook, line, and render</sub>
 </td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 <br><strong>MySQL</strong>
-<br>🗿 Rock Type
+<br><sub>SELECT * FROM skills</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" />
 <br><strong>FastAPI</strong>
-<br>🌟 Psychic Type
+<br><sub>Need for speed</sub>
 </td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50" />
 <br><strong>Flask</strong>
-<br>🍃 Grass Type
+<br><sub>Lightweight champion</sub>
 </td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50" />
 <br><strong>Git</strong>
-<br>👻 Ghost Type
+<br><sub>Time travel included</sub>
 </td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" />
 <br><strong>TensorFlow</strong>
-<br>🧠 Psychic Type
+<br><sub>Teaching machines</sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-<div align="center">
+## Featured Projects
 
-## 🌟 Epic Project Adventures 🌟
-*My legendary battles in the coding world!*
+### GitHub Productivity Tracker
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
-<img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="100" align="right">
+**Stack:** Python, FastAPI, Chrome Extension APIs, AI Analytics
 
-</div>
+A Chrome extension that tracks GitHub activity and provides productivity insights with AI-powered sentiment analysis of commits.
 
-### 🔧 GitHub Productivity Tracker
-**⭐ Legendary Project - Master Ball Caught!** <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-
-**What it does:** Tracks your GitHub activity and gives you cool insights!
-
-**My Pokémon Team:**
-- 🐍 **Pythonchu** (Python + FastAPI) - Electric attacks!
-- ⚡ **Chromeon** (Chrome Extension) - Speed boost!
-- 🤖 **AI-kazam** (AI Analytics) - Psychic powers!
-- 📊 **Chartics** (Data Viz) - Fire charts!
-
-**Special Move:** *Productivity Thunderbolt* - Shows your coding power level!
+**Features:**
+- Real-time activity monitoring
+- AI sentiment analysis of commits
+- Productivity scoring algorithms
+- Custom notification system
 
 <a href="https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension">
-<img src="https://img.shields.io/badge/🚀_Catch_This_Project-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🤖 Business Query Bot
-**⭐ Rare Shiny Project!** <img src="https://media.giphy.com/media/BdghqxNFV4efm/giphy.gif" width="30">
+### Business Query Bot
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+**Stack:** Python, NLP, Machine Learning
 
-**What it does:** A chatbot that answers business questions like a smart assistant!
+An intelligent conversational AI system for handling business queries with contextual understanding and domain-specific responses.
 
-**My Battle Squad:**
-- 🐍 **Pythonite** (Python Core) - Strong foundation!
-- 🧠 **Braineon** (NLP Magic) - Mind reading powers!
-- 💬 **Chatizard** (Chat Interface) - Communication fire!
-- 🔍 **Searchachu** (Query Master) - Finding answers fast!
-
-**Ultimate Move:** *Business Blast* - Solves your work problems instantly!
+**Features:**
+- Natural language processing
+- Context-aware responses
+- Business domain expertise
+- Scalable architecture
 
 <a href="https://github.com/rasikaphutane/business-query-bot">
-<img src="https://img.shields.io/badge/🚀_Catch_This_Bot-4ECDC4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br clear="left"/>
 
 ---
 
+## GitHub Analytics
+
 <div align="center">
 
-## 📊 My Trainer Stats 📊
-*Gotta catch all those commits!*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF"/>
 
-<img src="https://media.giphy.com/media/LP7q13XaBDT20/giphy.gif" width="100">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFCB05&icon_color=FF6B6B&text_color=FFFFFF&custom_title=🏆%20Trainer%20Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFCB05&text_color=FFFFFF&custom_title=💎%20Language%20Collection"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=radical&hide_border=true&background=0D1117&stroke=FFCB05&ring=FF6B6B&fire=FFCB05&currStreakLabel=FFCB05&sideLabels=FFFFFF&dates=FFFFFF"/>
-
-**Current Level:** *Pokémon Master in Training* ⚡
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA"/>
 
 </div>
 
 ---
 
+## Currently Exploring
+
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+</div>
 
-## 🎯 Next Gym Battles 🎯
-*Training to become the ultimate code master!*
+**Machine Learning & AI** • Advanced algorithms and model optimization  
+**Cloud Architecture** • Scalable deployment and infrastructure  
+**System Design** • Building robust, distributed systems  
 
-<img src="https://media.giphy.com/media/LRVnPYqQ8DhqsLP4UO/giphy.gif" width="200">
+---
 
-🧠 **AI Gym Leader Challenge** - Making computers think like Pokémon!  
-☁️ **Cloud Elite Four** - Battling in the digital sky realm!  
-🏗️ **Architecture Champion** - Building unbreakable code fortresses!
+## Tech Memes That Define My Coding Life
 
-**Current Training:** *Preparing for the Code League Championships!* 🏆  
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://i.imgur.com/2lHZ1wQ.png" width="250" height="200" alt="Works on my machine"/>
+<br><strong>The Classic</strong>
+</td>
+<td align="center" width="300">
+<img src="https://i.imgur.com/3uyRWGJ.png" width="250" height="200" alt="Debugging"/>
+<br><strong>Debugging Reality</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<img src="https://i.imgur.com/J8K7kvL.png" width="250" height="200" alt="Stack Overflow"/>
+<br><strong>My Best Friend</strong>
+</td>
+<td align="center" width="300">
+<img src="https://i.imgur.com/UvGfe30.png" width="250" height="200" alt="Code Comments"/>
+<br><strong>Future Me Problems</strong>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
+## Connect
+
 <div align="center">
 
-## 📫 Let's Connect! 📫
-
-<a href="https://www.linkedin.com/in/rasikaphutane">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:rasikaphutane18@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-
-<a href="https://github.com/rasikaphutane">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
 
 </div>
 
@@ -182,12 +175,7 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
 
-**Thanks for visiting my Pokédex! Don't forget to ⭐ star my repos - it's like giving my Pokémon extra XP!**
-
-*"I choose you, Clean Code!"* ⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=FFCB05&label=Trainers+Visited)
+![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=64FFDA&label=Profile+Views)
 
 </div>
