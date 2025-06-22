@@ -3,7 +3,8 @@
 # 🚀 Rasika Phutane 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%40+VIT+Chennai+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Cool+Stuff+%F0%9F%9A%80" />
-
+</div>
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
@@ -40,7 +41,7 @@
 </td>
 <td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
-<br><strong>Flask</strong>
+<br><strong>React</strong>
 </td>
 <td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
@@ -93,7 +94,7 @@
 - 💬 Chat interface that actually works
 - 🔍 Smart query understanding
 
-**Why it's cool:** You can ask it business questions in normal English and it gives you smart answers!
+**Why it's cool:** You can ask it business questions, and it provides you with intelligent answers, helping burnout employees deal with recurrent questions!
 
 <a href="https://github.com/rasikaphutane/business-query-bot">
 <img src="https://img.shields.io/badge/🚀_Check_It_Out-4ECDC4?style=for-the-badge&logoColor=white"/>
@@ -124,7 +125,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
 🧠 **Machine Learning** - Making computers smarter  
-☁️ **Cloud Stuff** - Deploying apps in the sky  
+☁️ **Cloud Stuff** - Deploying apps in the sky (hehe :p) 
 🏗️ **Better Architecture** - Building apps that don't break  
 
 </div>
@@ -155,7 +156,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-**Thanks for stopping by! Feel free to check out my repos and maybe give them a ⭐ if you like what you see!**
+**Thanks for stopping by!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=FF6B6B&label=Visitors)
 
