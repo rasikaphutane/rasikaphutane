@@ -19,7 +19,7 @@ class AspiringAIEngineer:
         self.role = "CS Student"
         self.location = "Chennai, India"
         self.goal = "Becoming an AI/ML Engineer"
-        self.motto = "Making machines smarter, one algorithm at a time"
+        self.motto = "Training models and debugging dreams"
         
     def current_focus(self):
         return [
@@ -137,7 +137,7 @@ class AspiringAIEngineer:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Space Animation"/>
   
-  **"The universe is not only stranger than we imagine, it's stranger than we can imagine... but AI might help us get closer."**
+  **"Exploring the universe of possibilities, one dataset at a time."**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=00d9ff&label=Visitors)
 </div>
