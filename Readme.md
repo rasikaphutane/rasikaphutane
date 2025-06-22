@@ -52,7 +52,7 @@ class AspiringAIEngineer:
 ## 🌌 Featured Projects
 
 ### 🤖 GitHub Productivity Tracker
-> *"Because even AI needs to track its progress"*
+*Tracking commits like a neural network tracks gradients*
 
 **Tech Stack:** Python, FastAPI, Chrome APIs, NLP
 - Real-time GitHub activity monitoring
@@ -65,7 +65,7 @@ class AspiringAIEngineer:
 ---
 
 ### 💬 Business Query Bot
-> *"Teaching machines to understand business like humans do"*
+*Teaching machines the art of conversation*
 
 **Tech Stack:** Python, NLP, Machine Learning
 - Contextual conversation understanding
@@ -97,33 +97,20 @@ class AspiringAIEngineer:
 </div>
 
 **🧠 Machine Learning Fundamentals**  
-*"Gradient descent: teaching computers to learn from their mistakes"*
+*Building intelligence, one algorithm at a time*
 
 **🔬 Deep Learning with Neural Networks**  
-*"If you can't explain it simply, add more layers"*
+*Going deeper than just surface-level understanding*
 
 **📈 Data Science & Analytics**  
-*"In data we trust, but first we clean"*
+*Turning data into insights, insights into action*
 
 **☁️ MLOps & Cloud Deployment**  
-*"It's not just about training models, it's about deploying them"*
+*From Jupyter notebooks to production-ready solutions*
 
 ---
 
-## 🎭 AI/ML Memes That Describe My Journey
 
-<div align="center">
-
-| Learning Phase | Reality Check |
-|:---:|:---:|
-| *"I'll just quickly train this model"* | *3 hours later: still preprocessing data* |
-| *"This algorithm should work perfectly"* | *Accuracy: 52%* |
-| *"Deep learning will solve everything"* | *Overfitting has entered the chat* |
-| *"I understand backpropagation now"* | *Narrator: They did not* |
-
-</div>
-
----
 
 ## 🌟 Fun Facts About Me
 
