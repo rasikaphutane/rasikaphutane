@@ -1,166 +1,141 @@
-<div align="center">
-
 # Rasika Phutane
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Full+Stack+Developer;AI+%26+ML+Explorer;It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Aspiring+AI%2FML+Engineer;Exploring+the+Universe+of+Data;Training+models%2C+not+just+debugging+them" alt="Typing SVG" />
 </div>
-
----
-
-## Tech Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<br><strong>Python</strong>
-<br><sub>My debugging companion</sub>
-</td>
-<td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<br><strong>JavaScript</strong>
-<br><sub>async/await my friend</sub>
-</td>
-<td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<br><strong>React</strong>
-<br><sub>Hook, line, and render</sub>
-</td>
-<td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-<br><strong>MySQL</strong>
-<br><sub>SELECT * FROM skills</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" />
-<br><strong>FastAPI</strong>
-<br><sub>Need for speed</sub>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50" />
-<br><strong>Flask</strong>
-<br><sub>Lightweight champion</sub>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50" />
-<br><strong>Git</strong>
-<br><sub>Time travel included</sub>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" />
-<br><strong>TensorFlow</strong>
-<br><sub>Teaching machines</sub>
-</td>
-</tr>
-</table>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="AI Brain Animation"/>
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 About Me
 
-### GitHub Productivity Tracker
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
-
-**Stack:** Python, FastAPI, Chrome Extension APIs, AI Analytics
-
-A Chrome extension that tracks GitHub activity and provides productivity insights with AI-powered sentiment analysis of commits.
-
-**Features:**
-- Real-time activity monitoring
-- AI sentiment analysis of commits
-- Productivity scoring algorithms
-- Custom notification system
-
-<a href="https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### Business Query Bot
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
-
-**Stack:** Python, NLP, Machine Learning
-
-An intelligent conversational AI system for handling business queries with contextual understanding and domain-specific responses.
-
-**Features:**
-- Natural language processing
-- Context-aware responses
-- Business domain expertise
-- Scalable architecture
-
-<a href="https://github.com/rasikaphutane/business-query-bot">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br clear="left"/>
+```python
+class AspiringAIEngineer:
+    def __init__(self):
+        self.name = "Rasika Phutane"
+        self.role = "CS Student"
+        self.location = "Chennai, India"
+        self.goal = "Becoming an AI/ML Engineer"
+        self.motto = "Making machines smarter, one algorithm at a time"
+        
+    def current_focus(self):
+        return [
+            "Machine Learning Fundamentals",
+            "Deep Learning with TensorFlow",
+            "Data Science & Analytics",
+            "Neural Network Architectures"
+        ]
+```
 
 ---
 
-## GitHub Analytics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF"/>
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=python,js,react,mysql,git&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
+### **AI/ML Stack**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA"/>
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,docker,aws,linux&theme=dark" />
 
 </div>
 
 ---
 
-## Currently Exploring
+## 🌌 Featured Projects
+
+### 🤖 GitHub Productivity Tracker
+> *"Because even AI needs to track its progress"*
+
+**Tech Stack:** Python, FastAPI, Chrome APIs, NLP
+- Real-time GitHub activity monitoring
+- AI-powered commit sentiment analysis  
+- Productivity insights with ML algorithms
+- Smart notification system
+
+[**View Repository →**](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
+
+---
+
+### 💬 Business Query Bot
+> *"Teaching machines to understand business like humans do"*
+
+**Tech Stack:** Python, NLP, Machine Learning
+- Contextual conversation understanding
+- Domain-specific knowledge base
+- Intent classification with ML
+- Scalable chatbot architecture
+
+[**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 </div>
-
-**Machine Learning & AI** • Advanced algorithms and model optimization  
-**Cloud Architecture** • Scalable deployment and infrastructure  
-**System Design** • Building robust, distributed systems  
-
----
-
-## Tech Memes That Define My Coding Life
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="300">
-<img src="https://i.imgur.com/2lHZ1wQ.png" width="250" height="200" alt="Works on my machine"/>
-<br><strong>The Classic</strong>
-</td>
-<td align="center" width="300">
-<img src="https://i.imgur.com/3uyRWGJ.png" width="250" height="200" alt="Debugging"/>
-<br><strong>Debugging Reality</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
-<img src="https://i.imgur.com/J8K7kvL.png" width="250" height="200" alt="Stack Overflow"/>
-<br><strong>My Best Friend</strong>
-</td>
-<td align="center" width="300">
-<img src="https://i.imgur.com/UvGfe30.png" width="250" height="200" alt="Code Comments"/>
-<br><strong>Future Me Problems</strong>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
 </div>
 
 ---
 
-## Connect
+## 🎯 Current Learning Journey
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Learning Animation"/>
+</div>
+
+**🧠 Machine Learning Fundamentals**  
+*"Gradient descent: teaching computers to learn from their mistakes"*
+
+**🔬 Deep Learning with Neural Networks**  
+*"If you can't explain it simply, add more layers"*
+
+**📈 Data Science & Analytics**  
+*"In data we trust, but first we clean"*
+
+**☁️ MLOps & Cloud Deployment**  
+*"It's not just about training models, it's about deploying them"*
+
+---
+
+## 🎭 AI/ML Memes That Describe My Journey
+
+<div align="center">
+
+| Learning Phase | Reality Check |
+|:---:|:---:|
+| *"I'll just quickly train this model"* | *3 hours later: still preprocessing data* |
+| *"This algorithm should work perfectly"* | *Accuracy: 52%* |
+| *"Deep learning will solve everything"* | *Overfitting has entered the chat* |
+| *"I understand backpropagation now"* | *Narrator: They did not* |
+
+</div>
+
+---
+
+## 🌟 Fun Facts About Me
+
+- 🌍 I believe AI will help us explore space better
+- 🤖 I debug code like I'm negotiating with robots
+- 📚 I read research papers like they're sci-fi novels
+- ☕ Coffee is my fuel for late-night model training
+- 🎮 I think neural networks are just very complex games
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -173,9 +148,9 @@ An intelligent conversational AI system for handling business queries with conte
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=64FFDA&label=Profile+Views)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Space Animation"/>
+  
+  **"The universe is not only stranger than we imagine, it's stranger than we can imagine... but AI might help us get closer."**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=00d9ff&label=Visitors)
 </div>
