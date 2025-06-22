@@ -1,11 +1,11 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Software+Developer+in+Progress;Still+figuring+out+if+arrays+start+at+0+or+1;AI%2FML+enthusiast+with+debugging+skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Learning+Software+Development;AI%2FML+Enthusiast;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Neural Network Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ---
@@ -13,131 +13,115 @@
 ## 🚀 About Me
 
 ```python
-class AspiringDeveloper:
+class RasikaPhutane:
     def __init__(self):
         self.name = "Rasika Phutane"
-        self.role = "CS Student"
+        self.role = "Computer Science Student"
         self.location = "Chennai, India"
-        self.goals = ["Software Development", "AI/ML Engineering", "World Domination"]
-        self.motto = "Turning caffeine into code and confusion into clarity"
-        self.current_status = "Learning to code like my life depends on it (it does)"
+        self.education = "VIT Chennai"
+        self.interests = ["Software Development", "AI/ML", "Problem Solving"]
+        self.motto = "Learning something new every day"
         
-    def current_focus(self):
+    def currently_working_on(self):
         return [
-            "Software Development Fundamentals",
             "Data Structures & Algorithms",
-            "Machine Learning & AI",
-            "Building things that actually work"
+            "Machine Learning fundamentals",
+            "Building practical projects",
+            "Open source contributions"
         ]
 ```
 
+<div align="center">
+  <i>💡 "Still learning, still growing, still debugging" 🐛</i>
+</div>
+
 ---
 
-## 🛠️ Tech Arsenal
-*My weapons of choice for conquering datasets*
+## 🛠️ Tech Stack
+*Technologies I'm comfortable with*
 
 <div align="center">
 
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,js,react,mysql,git&theme=dark" />
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,js,mysql&theme=dark" />
 
-### **AI/ML Stack**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,docker,aws,linux&theme=dark" />
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,vscode,jupyter&theme=dark" />
 
 </div>
 
 ---
 
-## 🌌 Featured Projects
-*Quality over quantity - still working on the quantity part*
+## 📁 Projects
+*What I've built so far*
 
 ### 🤖 GitHub Productivity Tracker
-*Because even my commits need therapy*
+**A Chrome extension for tracking GitHub activity**
 
-**Tech Stack:** Python, FastAPI, Chrome APIs, NLP
-- Real-time GitHub activity monitoring
-- AI-powered commit sentiment analysis  
-- Productivity insights with ML algorithms
-- Smart notification system
+**Tech Used:** Python, FastAPI, Chrome APIs, NLP
+- Monitors GitHub activity in real-time
+- Analyzes commit messages for insights
+- Provides productivity metrics
+- Chrome extension interface
 
 [**View Repository →**](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
 
 ---
 
 ### 💬 Business Query Bot
-*Making AI customer service slightly less frustrating*
+**A chatbot for handling business queries**
 
-**Tech Stack:** Python, NLP, Machine Learning
-- Contextual conversation understanding
-- Domain-specific knowledge base
-- Intent classification with ML
-- Scalable chatbot architecture
+**Tech Used:** Python, NLP, Machine Learning
+- Processes natural language queries
+- Provides relevant responses
+- Uses machine learning for intent recognition
+- Built with Python and NLP libraries
 
 [**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
 
 ---
 
-## 📊 GitHub Analytics
-*The numbers don't lie, but they don't tell the whole story either*
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff&ring_color=ff6b9d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
 </div>
 
 ---
 
-## 🌱 Learning Journey
-
-*Currently on a quest to master the art and science of AI*
+## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d8.gif" width="300" alt="Learning Animation"/>
 </div>
 
-**🧠 Software Development Fundamentals**  
-*Learning to write code that doesn't make senior devs cry*
+**📚 Data Structures & Algorithms**  
+*Working through problems and understanding core concepts*
 
-**🔍 Data Structures & Algorithms**  
-*Currently in a complicated relationship with Big O notation*
+**🤖 Machine Learning**  
+*Exploring ML algorithms and their applications*
 
-**🤖 Machine Learning & AI**  
-*Teaching computers to learn faster than I do*
+**🌐 Web Development**  
+*Building full-stack applications with modern frameworks*
 
-**☁️ Full Stack Development**  
-*Frontend, backend, and the mysterious stuff in between*
-
-**🛠️ Problem Solving & DSA**  
-*My code passes sample test cases... production is another story*
+**☁️ Software Development Practices**  
+*Learning industry best practices and clean code principles*
 
 ---
 
-
-
-## 🌸 Fun Facts About Me
-*Random variables from my probability distribution*
-
-- 💻 I debug code like I'm solving murder mysteries
-- 🎯 My relationship status with recursion: "It's complicated"
-- 📊 I can spend hours on LeetCode and still feel like a beginner
-- 🌟 My code works perfectly... until someone else runs it
-- 🚀 I collect programming languages like some people collect stamps
-- 🧩 Still waiting for that "aha!" moment with dynamic programming
-
----
-
-## 🤝 Let's Connect
-*My DMs are more responsive than my models*
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -150,9 +134,10 @@ class AspiringDeveloper:
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Simple Coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding"/>
   
-  **"Still loading... please wait while I compile my life choices." 💫**
+  **"Learning one commit at a time"** 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=ff6b9d&label=Visitors)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=00d9ff&label=Profile+Views)
+  
 </div>
