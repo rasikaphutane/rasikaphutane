@@ -1,141 +1,162 @@
-# Rasika Phutane
-## Digital Architect & Code Explorer
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="coding gif"/>
-</div>
-
----
-
-## About Me
-
-I'm a Computer Science student at VIT Chennai with a passion for creating innovative digital solutions. My expertise spans across full-stack development, artificial intelligence, and machine learning, with a focus on building scalable and efficient applications that solve real-world problems.
-
-**Currently focused on:**
-- Advanced Machine Learning & AI Research
-- Cloud Architecture & DevOps
-- Full-Stack Development with Modern Technologies
-- Open Source Contributions
-
----
-
-## Technical Arsenal
-
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css" />
+# 🚀 Rasika Phutane 🚀
 
-### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tensorflow,express" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CS+Student+%40+VIT+Chennai+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Cool+Stuff+%F0%9F%9A%80" />
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,docker,kubernetes" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 🚀 GitHub Productivity Tracker
-**Chrome Extension | FastAPI + AI Analytics**
+## ⚡ My Tech Stack ⚡
 
-A sophisticated browser extension that transforms GitHub activity into actionable insights through intelligent pattern recognition and AI-powered sentiment analysis.
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><strong>MySQL</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
+<br><strong>Flask</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" />
+<br><strong>TensorFlow</strong>
+</td>
+</tr>
+</table>
 
-**Key Features:**
-- Real-time activity monitoring with advanced metrics
-- AI-driven sentiment analysis of commits and interactions  
-- Productivity scoring algorithm with personalized insights
-- Customizable notification system for optimal workflow
+</div>
 
-**Technologies:** FastAPI, Chrome Extension APIs, Machine Learning, Data Analytics
+---
 
-[**View Repository →**](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
+<div align="center">
+
+## 🌟 Cool Projects I Built 🌟
+
+</div>
+
+### 🔧 GitHub Productivity Tracker
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+
+**What it does:** Tracks your GitHub activity and gives you cool insights!
+
+**Tech I used:**
+- 🐍 Python + FastAPI for the backend
+- ⚡ Chrome Extension magic
+- 🤖 AI for analyzing your code vibes
+- 📊 Cool charts and notifications
+
+**Why it's awesome:** It tells you how productive you've been and even analyzes if your commits sound happy or stressed out!
+
+<a href="https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension">
+<img src="https://img.shields.io/badge/🚀_Check_It_Out-FF6B6B?style=for-the-badge&logoColor=white"/>
+</a>
 
 ---
 
 ### 🤖 Business Query Bot
-**AI Assistant | NLP + Machine Learning**
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
-An intelligent conversational AI system designed for enterprise environments, featuring contextual understanding and domain-specific knowledge processing.
+**What it does:** A chatbot that answers business questions like a smart assistant!
 
-**Key Features:**
-- Advanced natural language processing capabilities
-- Context-aware response generation
-- Business domain expertise integration
-- Scalable microservices architecture
+**Tech I used:**
+- 🐍 Python for the brain
+- 🧠 Natural Language Processing
+- 💬 Chat interface that actually works
+- 🔍 Smart query understanding
 
-**Technologies:** Python, NLP, Machine Learning, RESTful APIs
+**Why it's cool:** You can ask it business questions in normal English and it gives you smart answers!
 
-[**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
+<a href="https://github.com/rasikaphutane/business-query-bot">
+<img src="https://img.shields.io/badge/🚀_Check_It_Out-4ECDC4?style=for-the-badge&logoColor=white"/>
+</a>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&custom_title=GitHub%20Statistics"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=react&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak Stats"/>
-</div>
+<br clear="left"/>
 
 ---
 
-## Current Learning Path
-
-**Machine Learning & AI**
-- Advanced Deep Learning Architectures
-- Computer Vision & Natural Language Processing
-- MLOps and Model Deployment
-
-**Cloud & Infrastructure**
-- AWS Solutions Architecture
-- Kubernetes & Container Orchestration
-- Microservices Design Patterns
-
-**System Design**
-- Scalable Architecture Patterns
-- Database Design & Optimization
-- Distributed Systems
-
----
-
-## Professional Connections
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
+
+## 📊 My GitHub Stats 📊
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-## Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasikaphutane&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+## 🎯 What I'm Learning Next 🎯
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+🧠 **Machine Learning** - Making computers smarter  
+☁️ **Cloud Stuff** - Deploying apps in the sky  
+🏗️ **Better Architecture** - Building apps that don't break  
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-  
-  **"Code is poetry written in logic"**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=64FFDA&label=Profile+Views)
+
+## 📫 Let's Connect! 📫
+
+<a href="https://www.linkedin.com/in/rasikaphutane">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rasikaphutane18@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+
+<a href="https://github.com/rasikaphutane">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+**Thanks for stopping by! Feel free to check out my repos and maybe give them a ⭐ if you like what you see!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=FF6B6B&label=Visitors)
+
 </div>
