@@ -28,10 +28,11 @@ class RasikaPhutane:
             "Machine Learning fundamentals",
             "Building practical projects",
             "Open source contributions"
+            "Leveling up (slowly but surely)"
         ]
     
     def fun_fact(self):
-        return "I debug with the determination of someone who forgot to save their work"
+        return "I debug with the determination of someone who forgot to save their work."
 ```
 
 <div align="center">
@@ -56,6 +57,7 @@ class RasikaPhutane:
 
 ### **Tools**
 <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
@@ -71,7 +73,7 @@ class RasikaPhutane:
 - Monitors GitHub activity in real-time
 - Analyzes commit messages for productivity insights
 - Provides detailed metrics and analytics
-- Chrome extension with intuitive interface
+- Chrome extension with an intuitive interface
 
 [**View Repository →**](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
 
@@ -80,7 +82,7 @@ class RasikaPhutane:
 ### 💬 Business Query Bot
 **An intelligent chatbot for handling business queries**
 
-**Tech Used:** Python, NLP, Machine Learning
+**Tech Used:** Python, LLMs, TailwindCSS
 - Processes natural language queries efficiently
 - Provides accurate and relevant responses
 - Uses machine learning for intent recognition
@@ -134,7 +136,7 @@ Learning industry standards, clean code principles, and system design
 - 🔍 Problem-solving through creative approaches
 - 🤝 Contributing to open source communities
 
-*Fun fact: I have a special talent for writing code that works perfectly... until someone else tries to run it* 😅
+*Fun fact: I have trust issues with code that works on the first try 😅*
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="200" alt="Motivation"/>
@@ -149,6 +151,8 @@ Learning industry standards, clean code principles, and system design
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
+<br/>
+*Feel free to reach out - I respond faster than my code compiles 📬*
 
 </div>
 
@@ -159,7 +163,7 @@ Learning industry standards, clean code principles, and system design
   
   **"Learning one commit at a time"** 🚀
   
-  *"My code doesn't always work, but when it does, I have no idea why"* 💻
+  *"Learning algorithms for life while running on coffee and optimistic assumptions 🚀☕"*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=ff69b4&label=Profile+Views)
   
