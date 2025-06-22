@@ -52,11 +52,6 @@ SQL         ██████████████████ 80%
 - Authentication system and role-based access control
 - Modern UI with Bootstrap and responsive design
 
-### 🧠 [NLP Research Projects @ Samsung PRISM]()
-**Advanced Natural Language Processing Solutions**
-- Working on cutting-edge NLP models for business applications
-- Research focus on transformer architectures and language understanding
-- Collaborating with Samsung's AI research team
 
 ## 📊 GitHub Analytics
 
