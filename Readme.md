@@ -1,220 +1,141 @@
+# Rasika Phutane
+## Digital Architect & Code Explorer
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="coding gif"/>
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science student at VIT Chennai with a passion for creating innovative digital solutions. My expertise spans across full-stack development, artificial intelligence, and machine learning, with a focus on building scalable and efficient applications that solve real-world problems.
+
+**Currently focused on:**
+- Advanced Machine Learning & AI Research
+- Cloud Architecture & DevOps
+- Full-Stack Development with Modern Technologies
+- Open Source Contributions
+
+---
+
+## Technical Arsenal
+
 <div align="center">
 
-# ✦ Rasika Phutane ✦
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css" />
 
-```
-     ╭─────────────────────────────────────╮
-     │  🌌 Digital Architect & Code Explorer │
-     ╰─────────────────────────────────────╯
-```
+### Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tensorflow,express" />
 
-![Space Typing](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=2500&pause=1000&color=8B9DC3&center=true&vCenter=true&width=500&lines=CS+Student+%40+VIT+Chennai;Building+Digital+Universes;Exploring+AI+Frontiers)
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,docker,kubernetes" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" opacity="0.8">
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
 
 </div>
 
 ---
 
-<div align="center">
+## Featured Projects
 
-## ⚡ Tech Stack Universe
+### 🚀 GitHub Productivity Tracker
+**Chrome Extension | FastAPI + AI Analytics**
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-<br>Flask
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛸 Featured Expeditions
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 GitHub Productivity Tracker
-*Chrome Extension*
-
-```
-┌─ Project Details ─────────────────┐
-│ Type: Browser Extension           │
-│ Tech: FastAPI + Chrome APIs       │
-│ Feature: AI Sentiment Analysis    │
-│ Purpose: Developer Insights       │
-└───────────────────────────────────┘
-```
-
-<details>
-<summary>🌟 <strong>Mission Overview</strong></summary>
-<br>
-A sophisticated Chrome extension that transforms GitHub activity tracking into actionable insights. Features intelligent pattern recognition, productivity scoring, and AI-powered sentiment analysis of commits and interactions.
+A sophisticated browser extension that transforms GitHub activity into actionable insights through intelligent pattern recognition and AI-powered sentiment analysis.
 
 **Key Features:**
-- Real-time activity monitoring
-- Productivity metrics dashboard  
-- AI sentiment analysis engine
-- Custom notification system
-</details>
+- Real-time activity monitoring with advanced metrics
+- AI-driven sentiment analysis of commits and interactions  
+- Productivity scoring algorithm with personalized insights
+- Customizable notification system for optimal workflow
 
-<a href="https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension">
-<img src="https://img.shields.io/badge/🚀_Explore_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Technologies:** FastAPI, Chrome Extension APIs, Machine Learning, Data Analytics
 
-</td>
-<td width="50%">
+[**View Repository →**](https://github.com/rasikaphutane/github_productivity_tracking_chrome_extension)
+
+---
 
 ### 🤖 Business Query Bot
-*AI-Powered Assistant*
+**AI Assistant | NLP + Machine Learning**
 
-```
-┌─ Project Details ─────────────────┐
-│ Type: AI Chat Interface           │
-│ Tech: NLP + Machine Learning      │
-│ Feature: Business Intelligence    │
-│ Purpose: Query Resolution         │
-└───────────────────────────────────┘
-```
-
-<details>
-<summary>🌟 <strong>Mission Overview</strong></summary>
-<br>
-An intelligent conversational AI system designed to handle business queries with contextual understanding. Leverages natural language processing to provide accurate, relevant responses for enterprise environments.
+An intelligent conversational AI system designed for enterprise environments, featuring contextual understanding and domain-specific knowledge processing.
 
 **Key Features:**
-- Natural language understanding
-- Context-aware responses
-- Business domain expertise
-- Scalable architecture
-</details>
+- Advanced natural language processing capabilities
+- Context-aware response generation
+- Business domain expertise integration
+- Scalable microservices architecture
 
-<a href="https://github.com/rasikaphutane/business-query-bot">
-<img src="https://img.shields.io/badge/🚀_Explore_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Technologies:** Python, NLP, Machine Learning, RESTful APIs
 
-</td>
-</tr>
-</table>
+[**View Repository →**](https://github.com/rasikaphutane/business-query-bot)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&custom_title=GitHub%20Statistics"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=react&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## Current Learning Path
+
+**Machine Learning & AI**
+- Advanced Deep Learning Architectures
+- Computer Vision & Natural Language Processing
+- MLOps and Model Deployment
+
+**Cloud & Infrastructure**
+- AWS Solutions Architecture
+- Kubernetes & Container Orchestration
+- Microservices Design Patterns
+
+**System Design**
+- Scalable Architecture Patterns
+- Database Design & Optimization
+- Distributed Systems
+
+---
+
+## Professional Connections
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasikaphutane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikaphutane18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikaphutane)
 
 </div>
 
 ---
 
+## Contribution Graph
+
 <div align="center">
-
-## 📊 Mission Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7BB3F0&icon_color=7BB3F0&text_color=8B949E&custom_title=Code%20Statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7BB3F0&text_color=8B949E&custom_title=Language%20Distribution"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasikaphutane&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
-
-## 🌌 Current Exploration
-
-```mermaid
-graph TD
-    A[🎓 Learning Journey] --> B[🤖 Machine Learning]
-    A --> C[☁️ Cloud Architecture]
-    A --> D[🏗️ System Design]
-    B --> E[🔬 Research Projects]
-    C --> F[📡 Deployment Skills]
-    D --> G[💼 Industry Applications]
-    
-    style A fill:#1f2937,stroke:#7BB3F0,stroke-width:2px,color:#ffffff
-    style B fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
-    style C fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
-    style D fill:#1f2937,stroke:#34d399,stroke-width:2px,color:#ffffff
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🛰️ Transmission Channels
-
-<table>
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/rasikaphutane">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-</td>
-<td align="center">
-<a href="mailto:rasikaphutane18@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/rasikaphutane">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-```
-     ╭─────────────────────────────────────╮
-     │   ✦ Ready for Collaborative Missions ✦   │
-     ╰─────────────────────────────────────╯
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-![Visitors](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=7BB3F0&label=Space+Visitors)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+  
+  **"Code is poetry written in logic"**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rasikaphutane&style=flat-square&color=64FFDA&label=Profile+Views)
 </div>
