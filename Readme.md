@@ -1,7 +1,7 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=CS+Student+%40+VIT+Chennai;AI%2FML+Enthusiast+%E2%9C%A8;Learning+Software+Development;Data+Science+Explorer+%F0%9F%93%8A;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%E2%9C%A8;Learning+Software+Development;Data+Science+Explorer+%F0%9F%93%8A;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -92,19 +92,6 @@ class RasikaPhutane:
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasikaphutane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikaphutane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikaphutane&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
 </div>
 
 ---
