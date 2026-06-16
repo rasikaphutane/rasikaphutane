@@ -1,7 +1,7 @@
 # Rasika Phutane
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%E2%9C%A8;Learning+Software+Development;Data+Science+Explorer+%F0%9F%93%8A;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=ML+Engineer+%E2%9C%A8;AI+Enthusiast;Data+Engineer+%F0%9F%93%8A;Building+Projects+One+Bug+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,23 +16,20 @@
 class RasikaPhutane:
     def __init__(self):
         self.name = "Rasika Phutane"
-        self.role = "Computer Science Student"
-        self.location = "Chennai, India"
-        self.education = "VIT Chennai"
-        self.interests = ["Software Development", "AI/ML", "Data Science", "Problem Solving"]
+        self.role = "Student"
+        self.interests = ["Research", "AI & ML", "Data Science", "Intelligent Systems"]
         self.motto = "Learning something new every day"
         
     def currently_working_on(self):
         return [
             "Data Structures & Algorithms",
-            "Machine Learning fundamentals",
-            "Building practical projects",
-            "Open source contributions"
-            "Leveling up (slowly but surely)"
+            "Agentic AI projects",
+            "Building practical solutions",
+            "Secure Systems"
         ]
     
     def fun_fact(self):
-        return "I debug with the determination of someone who forgot to save their work."
+        return "I debug with the determination of someone who forgot to save their work"
 ```
 
 <div align="center">
@@ -112,7 +109,7 @@ Exploring ML algorithms and their real-world applications
 Building end-to-end applications with modern frameworks
 
 **☁️ Software Development Best Practices**  
-Learning industry standards, clean code principles, and system design
+Learning industry standards, clean code principles and system design
 
 ---
 
